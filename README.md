@@ -3,7 +3,7 @@ Python script for image analysis and statistical analysis of cell proliferation 
 
 You will find different folders that contain elements regarding the internship "Spatial Point Processes - Simulation and Analysis" (done by Gabriel Sobczyk-Moran & supervised by Andjela Davidovic)
 
-The work and the furnished content are used by the CDEH Lab (Padteur institute) for a PhD article.
+The work and the furnished content are used by the CDEH Lab (Pasteur institute) for a postdoc article.
 
 ============================================================================
 
