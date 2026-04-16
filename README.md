@@ -5,7 +5,7 @@ You will find different folders that contain elements regarding the internship "
 
 The work and the furnished content are used by the CDEH Lab (Padteur institute) for a PhD article.
 
-==============================================================================================
+============================================================================================
 
 - The folder "Old_version" has 4 notebooks. Each one is doing the analysis of the provided experiment folders of drosophila wing.
 - The folder "Update_version" contains a main notebook that can execute the same stuff than the 4 notebooks stored in "Old_version".
