@@ -1,5 +1,5 @@
 ========== Spatial Point Processes (Update) ==========
-=====================================================
+======================================================
 
 This README is focused on the Update of the Spatial Point Processes Analysis Python notebook programmes stored in "Old_version" folder.
 
@@ -34,5 +34,5 @@ An optional cell (the last one) is here to clean the save_path directory created
 The functions called and used in this notebook are stored in "utils" folder and their content is explained in the associated "README.md"
 
 =====================================================
-=============== Gabriel SOBCZYK-MORAN ===============
-=====================================================
+========== Gabriel SOBCZYK-MORAN ==========
+
