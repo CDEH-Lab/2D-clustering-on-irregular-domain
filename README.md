@@ -9,4 +9,4 @@ The work and the furnished content are used by the CDEH Lab (Padteur institute) 
 
 - The folder "Old_version" has 4 notebooks. Each one is doing the analysis of the provided experiment folders of drosophila wing.
 - The folder "Update_version" contains a main notebook that can execute the same stuff than the 4 notebooks stored in "Old_version".
-- "Reports_file
+- "Report_files" is the folder that will store all the reports on the internship done from June to August 2024.
