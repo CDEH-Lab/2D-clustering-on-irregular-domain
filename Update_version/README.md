@@ -1,5 +1,4 @@
-=====================================================
-========= Spatial Point Processes (Update) ==========
+========== Spatial Point Processes (Update) ==========
 =====================================================
 
 This README is focused on the Update of the Spatial Point Processes Analysis Python notebook programmes stored in "Old_version" folder.
