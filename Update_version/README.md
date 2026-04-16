@@ -33,6 +33,5 @@ An optional cell (the last one) is here to clean the save_path directory created
 
 The functions called and used in this notebook are stored in "utils" folder and their content is explained in the associated "README.md"
 
-=====================================================
 ========== Gabriel SOBCZYK-MORAN ==========
 
