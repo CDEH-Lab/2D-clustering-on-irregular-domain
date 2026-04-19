@@ -1,6 +1,6 @@
-===========================================================
-========= Spatial Point Processes (Utils Folder) ==========
-===========================================================
+------------------------------------------------------------------------------------------------------
+------------------------------- Spatial Point Processes (Utils Folder) -------------------------------
+------------------------------------------------------------------------------------------------------
 
 This README is a complement of the main one (which is speaking about the notebook of the analysis). It will focus on every Python programs that are stored in the "utils" folder. Every program contains multiple functions which are gathered regarding their role (and actions). Each name affixed on these programs represents the main topic/role by the functions written within these programs.
 
@@ -145,6 +145,6 @@ This last Python program gathers all the function that prints elements of the an
 -----------------------------------------------------------
 
 
-===========================================================
-================== Gabriel SOBCZYK-MORAN ==================
-===========================================================
+------------------------------------------------------------------------------------------------
+------------------------------------- Gabriel SOBCZYK-MORAN ------------------------------------
+------------------------------------------------------------------------------------------------
